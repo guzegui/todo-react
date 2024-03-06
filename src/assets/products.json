@@ -1,0 +1,30 @@
+[
+    {
+        "id": "001",
+        "name": "Whole Wheat Spaghetti",
+        "description": "A nutritious, whole grain pasta made from whole wheat flour, providing a rich source of dietary fiber, protein, and vitamins.",
+        "image_url": "https://images.openfoodfacts.org/images/products/807/680/952/9433/front_en.215.400.jpg",
+        "price": 1.85
+    },
+    {
+        "id": "002",
+        "name": "Cheddar Cheese",
+        "description": "Aged cheddar cheese known for its deep, tangy flavor and smooth texture, perfect for melting over dishes or enjoying as part of a cheese platter.",
+        "image_url": "https://images.openfoodfacts.org/images/products/500/029/514/2893/front_en.13.400.jpg",
+        "price": 3.40
+    },
+    {
+        "id": "003",
+        "name": "Gala Apples",
+        "description": "Sweet, crisp, and juicy apples with a vibrant red and yellow skin, ideal for snacking, baking, or making apple sauce.",
+        "image_url": "https://images.openfoodfacts.org/images/products/405/648/918/6328/front_de.14.400.jpg",
+        "price": 2.40
+    },
+    {
+        "id": "004",
+        "name": "Almond Granola Bars",
+        "description": "Crunchy and satisfying granola bars packed with almonds, whole grains, and honey, providing a great source of energy and nutrients.",
+        "image_url": "https://images.openfoodfacts.org/images/products/001/600/028/9208/front_fr.16.400.jpg",
+        "price": 4.80
+    }
+]
